@@ -3,7 +3,7 @@
 
 <p id="description">Simple Directory Launcher</p>
 
-<p align="center"><img src="https://media.discordapp.net/attachments/942830498378580071/962547040104099990/unknown.png" alt="project-image"></p>  
+<p align="center"><img src="https://cdn.discordapp.com/attachments/847507532780011530/962833400887124018/pic.PNG" alt="project-image"></p>  
   
 <h2>Note:</h2>
 
